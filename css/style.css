@@ -1,0 +1,98 @@
+body {
+    background: rgb(2, 36, 55);
+    font-family: 'Gloock', serif;
+    font-family: 'Moul', cursive;
+}
+.bn{
+    width: 25px;height: 25px;
+    background-color: rgb(241, 19, 19);
+    margin-top:10px;
+}
+.bt{
+    color: rgb(224, 53, 53);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: 9px;
+}
+.name{
+    width: 150px;
+    height: 30px;
+    background-color: rgb(228, 226, 223);
+    cursor: text;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:900;
+    color: blue;
+    font-size: 20px;
+}
+.form-check-label{
+    color:rgb(230, 181, 146);
+    margin-top: 5px;
+    margin-left: 5px;
+    
+}
+.form-check-input{
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+#result {
+    width: 515px;
+    margin-top: 30px;
+    color: #f7f1f4;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.row{
+    margin-left: 150px;
+}
+form{
+    width: 150px;
+}
+.t{
+    background-color:  blue;
+    color: aliceblue;
+    width: 160px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 5px;
+}  
+.t:hover {
+    background-color:blue;
+    color: aliceblue;
+}
+.t:active{
+    background-color: #000080;
+}
+.f{
+    background-color:  #FF0000;
+    color: aliceblue;
+    width: 160px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 10px;
+}  
+.f:hover {
+    background-color:#FF0000;
+    color: aliceblue;
+}
+.f:active{
+    background-color: rgb(110, 5, 5);
+}
+.result{
+    width: 520px;
+    color: #f7f1f4;
+    margin-left: 480px;
+    margin-top: -120px;
+} 
+audio{
+width: 160px;
+height: 30px;
+
+}
+
+
+
